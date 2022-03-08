@@ -10,7 +10,7 @@ details = sqlite3.connect("company.db")  # creating a database
 #                       EmployeeCompanyName Text,
 #                       EmployeeMobileNumber Integer
 # );     ''')
-print("Table Created Successfully")
+# print("Table Created Successfully")
 
 # get_employeeID = input("Enter Id of an Employee: ")
 get_employeeName = input("Enter Employee Name: ")
